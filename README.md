@@ -1,5 +1,12 @@
-# projet_DEFT2009_ML2024
+# Projet DEFT2009_ML2024
+
 Projet de groupe effectué dans le cadre du cours d'Apprentissage Artificiel enseigné par M. Loïc Grobol au sein du master TAL (Université Paris Nanterre), année 2024-2025.
+
+## Équipe
+Ce projet a été réalisé par :
+- **AUGUSTYN Patricia** : [GitHub](https://github.com/PatriciaAugustyn)
+- **BRISSET Lise** : [GitHub](https://github.com/Lise-Brisset)
+- **KOROL Solomia** : [Githuv](https://github.com/Elesionore)
 
 __Tâche à réaliser :__ tâche 3 de l’édition 2009 du DÉfi Fouille de Texte (DEFT): apprentissage de classification par parti politique d’interventions au parlement européen.
 
