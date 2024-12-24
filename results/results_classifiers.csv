@@ -1,0 +1,9 @@
+Modèle,Macro Précision,Macro Rappel,F1-score pondérée
+Random Forest,0.89,0.72,0.77
+Perceptron,0.76,0.76,0.77
+Linear SVC,0.79,0.74,0.76
+Arbre de Décision,0.72,0.72,0.74
+Support Vector Machine,0.73,0.56,0.63
+Régression Logistique,0.71,0.52,0.6
+Complement Naive Bayes,0.76,0.38,0.46
+Naïve Bayes,0.43,0.21,0.21
