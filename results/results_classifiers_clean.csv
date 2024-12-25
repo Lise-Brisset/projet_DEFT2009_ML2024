@@ -3,7 +3,9 @@ Linear SVC,0.46,0.41,0.46
 Support Vector Machine,0.51,0.39,0.45
 Régression Logistique,0.52,0.38,0.45
 Perceptron,0.41,0.39,0.44
-Arbre de Décision,0.29,0.29,0.33
+Gradient Boosting,0.53,0.35,0.41
+Bernoulli Naive Bayes,0.43,0.36,0.4
 Complement Naive Bayes,0.48,0.28,0.33
+Arbre de Décision,0.29,0.29,0.33
 Random Forest,0.72,0.28,0.32
 Naïve Bayes,0.34,0.2,0.19
